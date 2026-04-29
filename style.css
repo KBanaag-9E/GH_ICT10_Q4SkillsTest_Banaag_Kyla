@@ -1,0 +1,19 @@
+body {
+    background-color: #3B6064;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container {
+    background-color: #87BBA2;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 20vw;
+}
+
+h1 {
+    text-align: center;
+}
